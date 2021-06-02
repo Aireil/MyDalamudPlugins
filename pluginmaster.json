@@ -1,0 +1,18 @@
+[
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer",
+        "Description": "Displays FF Logs data in-game.",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "0.9.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1622677109"
+    }
+]
