@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "0.9.0.0",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "Displays FF Logs data in-game.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 3,
