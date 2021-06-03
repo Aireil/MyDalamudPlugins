@@ -3,7 +3,7 @@
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "Displays FF Logs data in-game.",
+  "Description": "View FF Logs ranking percentiles in-game.\nOpen a context menu of a player name with the interface opened to search (can be disabled in the settings).",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 3,
   "LoadPriority": 0
