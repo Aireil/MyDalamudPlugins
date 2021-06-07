@@ -2,8 +2,8 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "View FF Logs ranking percentiles in-game.\nOpen a context menu of a player name with the interface opened to search (can be disabled in the settings).",
+  "AssemblyVersion": "1.2.0.0",
+  "Description": "View FF Logs ranking percentiles in-game.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 3,
   "LoadPriority": 0
