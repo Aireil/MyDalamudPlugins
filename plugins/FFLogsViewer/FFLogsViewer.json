@@ -2,9 +2,10 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "1.3.0.0",
+  "AssemblyVersion": "1.3.0.1",
   "Description": "View FF Logs ranking percentiles in-game.\n\nChangelog:\n1.3.0.0: Added open in browser setting for context menu.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
   "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
