@@ -2,7 +2,7 @@
     {
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
-        "Description": "View FF Logs ranking percentiles in-game.\n\nChangelog:\n1.3.0.0: Added open in browser setting for context menu.\n1.3.1.0: Added context menu button to free company",
+        "Description": "View FF Logs ranking percentiles in-game.\n\nChangelog:\n1.3.0.0: Added open in browser setting for context menu.\n1.3.1.0: Added context menu button to free company.",
         "InternalName": "FFLogsViewer",
         "AssemblyVersion": "1.3.1.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625922535"
+        "LastUpdated": "1625922800"
     }
 ]
