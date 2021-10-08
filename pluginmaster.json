@@ -12,16 +12,14 @@
         "DalamudApiLevel": 4,
         "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/ui.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/contextMenu1.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/contextMenu2.png"
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
         ],
-        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/api4/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/api4/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/api4/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632348335"
+        "LastUpdated": "1633721019"
     }
 ]
