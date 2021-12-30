@@ -2,10 +2,16 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "1.5.0.0",
+  "AssemblyVersion": "1.5.1.0",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+  "Tags": [
+    "FFLogs",
+    "FFLog",
+    "FFLo",
+    "FFL"
+  ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "ImageUrls": [
@@ -13,5 +19,5 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "Updated for Endwalker. Will show values for the trials when FFLogs website is updated."
+  "Changelog": "Add support for Asphodelos + band-aid fix for scaling issues."
 }
