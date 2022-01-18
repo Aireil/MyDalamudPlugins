@@ -4,9 +4,9 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
-        "Changelog": "Fix window size.",
+        "Changelog": "Support for 0 percentile, and reduce points usage.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "1.5.2.1",
+        "AssemblyVersion": "1.5.4.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,6 +26,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1641409369"
+        "LastUpdated": "1642468456"
     }
 ]
