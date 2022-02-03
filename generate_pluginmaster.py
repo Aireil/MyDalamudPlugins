@@ -47,8 +47,8 @@ def main():
     # write the master
     write_master(master)
 
-    # update the LastUpdated field in master
-    last_updated()
+    # update the LastUpdate field in master
+    last_update()
 
 def extract_manifests():
     manifests = []
@@ -87,7 +87,7 @@ def write_master(master):
 def trim_manifest(plugin):
     return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
 
-def last_updated():
+def last_update():
     with open('pluginmaster.json') as f:
         master = json.load(f)
 
@@ -95,8 +95,8 @@ def last_updated():
         latest = f'plugins/{plugin["InternalName"]}/latest.zip'
         modified = int(getmtime(latest))
 
-        if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
-            plugin['LastUpdated'] = str(modified)
+        if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
+            plugin['LastUpdate'] = str(modified)
 
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
