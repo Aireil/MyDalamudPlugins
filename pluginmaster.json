@@ -4,9 +4,9 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs.",
-        "Changelog": "- 2.0.4.7: Fix separator issue with the last update + believe it or not, Penumbra API update AGAIN.",
+        "Changelog": "- 2.0.5.0:\n   Add swap groups, allowing you to dynamically change the layout in the main window.\n   Adding encounters in the layout is now easier.\n   Some other minor improvements.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.0.4.7",
+        "AssemblyVersion": "2.0.5.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -26,6 +26,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657858732"
+        "LastUpdate": "1659760566"
     }
 ]
