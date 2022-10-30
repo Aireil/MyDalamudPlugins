@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.7.1",
+  "AssemblyVersion": "2.0.7.2",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
@@ -19,5 +19,5 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.7.1:\n   Fix some issues with open with + add a close setting.\n- 2.0.7.0:\n   Add open with setting, allowing you to fetch a character when opening different windows."
+  "Changelog": "- 2.0.7.2:\n   Add disabling key to open with feature."
 }
