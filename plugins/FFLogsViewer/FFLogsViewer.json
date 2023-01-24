@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.9.0",
+  "AssemblyVersion": "2.0.9.1",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
@@ -21,6 +21,6 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.9.0:\n   6.3 compatibility + add new trial to default layout",
+  "Changelog": "- 2.0.9.1:\n   Add TOP to the default layout",
   "AcceptsFeedback": true
 }
