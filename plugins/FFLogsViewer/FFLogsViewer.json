@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.10.0",
+  "AssemblyVersion": "2.1.0.0",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
@@ -21,6 +21,6 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.10.0:\n   Add timeframe setting, allowing to choose Historical vs Today rankings.\n   Like metrics, the default is in the settings and can be temporarily overwritten in the main window.",
+  "Changelog": "- 2.1.0.0:\n   Add party view, caching, and abbreviated names (see the update message in the main window for more info).",
   "AcceptsFeedback": true
 }
