@@ -4,9 +4,9 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.4.1:\n   Refresh party state when swapping to party view.\n   Add \"party\" or \"p\" argument to /fflogs to open the party view and refresh the party state.\n   Add default view setting.\n- 2.1.4.0:\n   Add cDPS metric, this new metric only works on new reports.\n",
+        "Changelog": "- 2.1.4.2:\n   [Penumbra integration] Use interface collection instead of default.\n- 2.1.4.1:\n   Refresh party state when swapping to party view.\n   Add \"party\" or \"p\" argument to /fflogs to open the party view and refresh the party state.\n   Add default view setting.\n- 2.1.4.0:\n   Add cDPS metric, this new metric only works on new reports.\n",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.4.1",
+        "AssemblyVersion": "2.1.4.2",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -23,6 +23,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1690381026"
+        "LastUpdate": "1692212268"
     }
 ]
