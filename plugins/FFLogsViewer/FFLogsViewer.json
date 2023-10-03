@@ -2,16 +2,17 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.1.4.4",
+  "AssemblyVersion": "2.1.5.0",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
   "Tags": [
     "FFLogs"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
@@ -19,6 +20,6 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.1.4.4:\n   Fix size issues in certain circumstances.\n- 2.1.4.3:\n   Add zone ASP when hovering over an ASP stat.\n   Fix an issue where old members would stay in group view even after a refresh.\n   Add a button to open the main window in the installer.",
+  "Changelog": "- 2.1.5.0:\n   API 9 update.\n   Update default layout to add new trial and remove the swapping from Abyssos.\n   If you wish to keep the swapping, you can edit your layout in the config, if the way to setup swapping is not clear, feel free to open an issue on GitHub.",
   "AcceptsFeedback": true
 }
