@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.1.5.0",
+  "AssemblyVersion": "2.1.5.1",
   "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
@@ -20,6 +20,6 @@
   ],
   "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
   "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.1.5.0:\n   API 9 update.\n   Update default layout to add new trial and remove the swapping from Abyssos.\n   If you wish to keep the swapping, you can edit your layout in the config, if the way to setup swapping is not clear, feel free to open an issue on GitHub.",
+  "Changelog": "- 2.1.5.1:\n   Attempt to fix party view shaking under certain circumstances.\n   Remove Penumbra IPC (no longer needed).\n- 2.1.5.0:\n   API 9 update.\n   Update default layout to add new trial and remove the swapping from Abyssos.\n   If you wish to keep the swapping, you can edit your layout in the config, if the way to setup swapping is not clear, feel free to open an issue on GitHub.",
   "AcceptsFeedback": true
 }
