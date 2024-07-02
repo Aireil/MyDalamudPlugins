@@ -4,15 +4,15 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.6.3:\n   Fix for the new worlds, because SE is annoying and did not update them in the client.\n- 2.1.6.2:\n   Add forcing aDPS layout entry setting. This is only useful if you have encounters in your layout that do not support your default metric.\n- 2.1.6.1:\n   Add an option to always open the party view.\n- 2.1.6.0:\n   Add an option to open the party view when using the context menu from a party list-related window.\n   Add Tomestone option when opening a link.\n   \"Open With\" will no longer open on private PFs.\n   Use Dalamud's context menu.\n   Some miscellaneous behind-the-scenes changes.",
+        "Changelog": "- 2.1.6.4:\n   Dawntrail update.\n   The default layout will be changed at a later date, when I'm done with the MSQ, you can change it in the settings if you want a different one now.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.6.3",
+        "AssemblyVersion": "2.1.7.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
@@ -24,6 +24,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718108162"
+        "LastUpdate": "1719946589"
     }
 ]
