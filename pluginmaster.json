@@ -4,9 +4,9 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "- 2.1.7.2:\n   Update default layout with normal as a swapped.\n   Hopefully fix shaking issues that may happen on tables.\n- 2.1.7.1:\n   Update default layout for DT.\n   Add support for PCT and VPR.\n- 2.1.7.0:\n   Dawntrail update.",
+        "Changelog": "- 2.1.7.3:\n   Update default layout with savage.\n- 2.1.7.2:\n   Update default layout with normal as a swapped.\n   Hopefully fix shaking issues that may happen on tables.\n- 2.1.7.1:\n   Update default layout for DT.\n   Add support for PCT and VPR.\n- 2.1.7.0:\n   Dawntrail update.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.7.2",
+        "AssemblyVersion": "2.1.7.3",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -24,6 +24,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1721550174"
+        "LastUpdate": "1722349302"
     }
 ]
