@@ -4,15 +4,15 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "Changelog": "-2.1.7.7\n   Fix broken stat layout in party view\n-2.1.7.5\n   Update extremes names\n   Fix context menu not working in blacklist and mute list",
+        "Changelog": "-2.2.0.0\n   API 11 + 7.1 update.\n   Update the default layout.\n   Add some background improvements.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.1.7.7",
+        "AssemblyVersion": "2.2.0.0",
         "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
         "ImageUrls": [
             "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
@@ -24,6 +24,6 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1725746739"
+        "LastUpdate": "1731634376"
     }
 ]
