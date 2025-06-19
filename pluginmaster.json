@@ -24,6 +24,23 @@
         "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1744332003"
+        "LastUpdate": "1750338355"
+    },
+    {
+        "Author": "Aireil",
+        "Name": "Forked Localization Fix",
+        "Punchline": "Fixes in/out cast names in French and German for the last boss of The Forked Tower.",
+        "Description": "Fixes in/out cast names in French and German for the last boss of The Forked Tower. No configuration, it just works. It will automatically disable itself on any game update.",
+        "InternalName": "ForkedLocalizationFix",
+        "AssemblyVersion": "0.0.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/ForkedLocalizationFix/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/ForkedLocalizationFix/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/ForkedLocalizationFix/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1750338355"
     }
 ]
